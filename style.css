@@ -1,0 +1,80 @@
+*{
+    background-position: initial;
+    background-color: burlywood;
+}
+
+#main-header{
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+nav ul{
+    display: inline-flex;
+    justify-content: space-around;
+    font-style: oblique;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: xx-large;
+    margin: 10px;
+    
+}
+nav {
+    text-align: center;
+    background-color: burlywood;
+}
+nav li{
+    display: inline;
+    margin-right: 300px;
+    text-decoration: dotted;
+}
+nav a{
+    display: inline;
+    text-decoration: underline;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-decoration: underline;
+}
+.intro{
+    text-align: left;
+    width: 50%;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.intro img{
+    border-width: 5px;
+    width: fill;
+    align-items: right;
+}
+
+a:hover{
+    color: brown;
+}
+#Introduction {
+    text-shadow: 30px;
+    text-decoration: solid underline;
+}
+h2 {
+    text-decoration: underline;
+    background-color: teal;
+    text-align: center;
+    font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif cursive;
+}
+.goals{
+    text-align: left;
+    width: 50%;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+footer p {
+text-align: center;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 20px;
+}
