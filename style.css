@@ -17,7 +17,7 @@ nav ul{
     font-style: oblique;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     font-size: xx-large;
-    margin: 10px;
+    margin left: 30px;
     
 }
 nav {
@@ -39,7 +39,7 @@ nav a{
 }
 .intro{
     text-align: left;
-    width: 50%;
+    width: 60%;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
@@ -77,4 +77,10 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 margin: 20px;
+}
+#image1{
+    float: right;
+    width: 35%;
+position: relative;
+margin-right: 30px;
 }
